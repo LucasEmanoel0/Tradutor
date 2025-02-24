@@ -38,9 +38,8 @@ Digite o texto a ser traduzido e veja os resultados!
 
 📌 Autores
 
-[Seu Nome]
+Lucas Emanoel Amaral Gomes
 
-[Outros Participantes]
 
 📢 Observações
 

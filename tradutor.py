@@ -4,7 +4,7 @@ from translate import Translator
 translator = Translator(from_lang="pt", to_lang="en")
 
 # Texto para traduzir
-texto_original = "ola,como voce esta?"
+texto_original = input("digite seu texto :")
 
 # Traduzindo
 traducao = translator.translate(texto_original)

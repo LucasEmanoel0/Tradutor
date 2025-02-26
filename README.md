@@ -46,3 +46,9 @@ William
 📢 Observações
 
 Este projeto visa demonstrar a aplicação prática dos conceitos de LFA e pode ser expandido para incluir mais regras gramaticais e melhorias na tradução. Qualquer sugestão ou melhoria é bem-vinda! 🚀
+
+
+Link do progama em funcionamento
+
+https://youtu.be/rZUXyu54vr8
+

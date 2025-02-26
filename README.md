@@ -39,6 +39,7 @@ Digite o texto a ser traduzido e veja os resultados!
 📌 Autores
 
 Lucas Emanoel Amaral Gomes
+William
 
 
 📢 Observações
